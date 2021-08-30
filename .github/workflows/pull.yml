@@ -6,7 +6,7 @@ on:
   # Workflow Dispatch
   # This is to invoke the action from the GitHub UI
   #
-
+  push:
   workflow_dispatch:
 
   #
